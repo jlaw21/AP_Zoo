@@ -9,6 +9,6 @@ public class Dolphin extends Animal{
         message += eat("fish.\n");
         message += speak("squeak.");
 
-        return message
+        return message;
     }
 }
